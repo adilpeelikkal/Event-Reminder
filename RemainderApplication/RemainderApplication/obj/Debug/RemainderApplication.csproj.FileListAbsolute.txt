@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\bin\Debug\RemainderApplication.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\bin\Debug\RemainderApplication.exe
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\bin\Debug\RemainderApplication.pdb
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\bin\Debug\EntityFramework.dll
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\bin\Debug\EntityFramework.xml
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\obj\Debug\RemainderApplication.exe
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\obj\Debug\RemainderApplication.pdb
+c:\users\acer\documents\visual studio 2013\Projects\RemainderApplication\RemainderApplication\obj\Debug\RemainderApplication.csprojResolveAssemblyReference.cache
